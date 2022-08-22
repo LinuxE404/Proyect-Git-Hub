@@ -1,0 +1,6 @@
+lineas:
+1. Gato
+2. Perro
+3. Serpiente
+
+
