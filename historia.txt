@@ -3,6 +3,6 @@ lineas:
 2. Perro
 3. Serpiente
 
-Son animales
+Son animales que poseo actualmente
 
 
