@@ -1,33 +1,41 @@
 body {
-    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: burlywood;
-
 }
 
-.Main {
-    padding-top: 4rem;
-    padding-bottom: 2rem;;
-}
 
-.Container-Card {
+.Main,
+.Header,
+.Footer {
     max-width: 70rem;
     margin: 0 auto;
 }
+
+
+
+.Main {
+    padding: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.ContainerRuta {
+    color: rgb(219, 219, 219);
+    margin-bottom: 2rem;
+}
+
+.card {
+    border: none !important;
+}
+
 .Card__Container-Image {
     height: 20rem;
     width: 100%;
 }
+
 .Card__Container-Image img {
     height: 100%;
     width: 100%;
     object-fit: cover;
     object-position: 0 -6rem;
 }
-
-
-
-footer {
-    margin-top: 0 !important;
-}
-
