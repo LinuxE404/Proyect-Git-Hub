@@ -5,6 +5,11 @@ body {
 
 }
 
+nav {
+    max-width: 70rem;
+    margin: 0 auto;    
+}
+
 .Main {
     padding-top: 4rem;
     padding-bottom: 2rem;;
